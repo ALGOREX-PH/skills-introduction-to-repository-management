@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @ALGOREX-PH
+/src/backend/database.py      @ALGOREX-PH
+/src/backend/routers/auth.py  @ALGOREX-PH
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @ALGOREX-PH
